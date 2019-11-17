@@ -8,6 +8,7 @@ Here is a collection of my domoticz scripts.
 
 ## check_device_online
 Parameters
+
 | name | description |
 |--|--|
 | mac | mac address to search on network |
